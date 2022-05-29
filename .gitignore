@@ -1,0 +1,10 @@
+.DS_Store
+**/.DS_Store
+*/.DS_Store
+.DS_Store
+embeddings/glove*
+__pycache__
+checkpoints/test*
+history/test*
+plots/test*
+test*
